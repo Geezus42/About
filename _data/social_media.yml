@@ -15,7 +15,7 @@ dribbble:
 
 email:
   name: Email
-  profile_url_prefix: mailto:
+  profile_url_prefix: mailto://
   share_url_prefix: mailto:?body=
   icon_svg:
 
