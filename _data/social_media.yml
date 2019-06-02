@@ -74,6 +74,11 @@ reddit:
   share_url_prefix: https://reddit.com/submit?url=
   icon_svg:
 
+Signal:
+  name: Signal
+  profile_url_prefix: https://signal.org/
+  icon_svg:
+
 stackoverflow:
   name: Stack Overflow
   profile_url_prefix: https://stackoverflow.com/u/
