@@ -76,7 +76,7 @@ reddit:
 
 Signal:
   name: Signal
-  profile_url_prefix: https://signal.org
+  profile_url_prefix: https://signal.org/
   icon_svg:
 
 stackoverflow:
