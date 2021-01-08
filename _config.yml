@@ -78,4 +78,7 @@ topics:
     web_url: https://github.com/topics/markdown
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/markdown/markdown.png
 
+  - name: Firefox
+    weburl: https://github.com/topics/firefox
+    image_url: https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png
 
