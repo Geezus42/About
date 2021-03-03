@@ -52,13 +52,29 @@ social_media:
   # youtube: your_username
 
 topics:
+   - name: Bash
+     web_url: https://github.com/topics/bash
+     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png
+
+  - name: Command line interface
+    web_url: https://github.com/topics/cli
+
+  - name: Firefox
+    weburl: https://github.com/topics/firefox
+    image_url: https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png
+
   - name: Linux
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
   
-  - name: Command line interface
-    web_url: https://github.com/topics/cli
-  
+  - name: Mastodon
+    web_url: https://github.com/topics/mastodon
+    image_url: https://raw.githubusercontent.com/github/explore/d004ed8f8b3a409f46c89be097d6ab0ee207cea9/topics/mastodon/mastodon.png
+
+  - name: Markdown
+    web_url: https://github.com/topics/markdown
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/markdown/markdown.png
+
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
@@ -69,16 +85,4 @@ topics:
   - name: Raspberry Pi
     web_url: https://github.com/topics/raspberry-pi
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/raspberry-pi/raspberry-pi.png
-  
-  - name: Mastodon
-    web_url: https://github.com/topics/mastodon
-    image_url: https://raw.githubusercontent.com/github/explore/d004ed8f8b3a409f46c89be097d6ab0ee207cea9/topics/mastodon/mastodon.png
-
-  - name: Markdown
-    web_url: https://github.com/topics/markdown
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/markdown/markdown.png
-
-  - name: Firefox
-    weburl: https://github.com/topics/firefox
-    image_url: https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png
 
