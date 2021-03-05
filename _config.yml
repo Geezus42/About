@@ -56,6 +56,9 @@ topics:
     web_url: https://github.com/topics/arch
     image_url: https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png
 
+  - name: Automation
+    web_url: https://github.com/topics/automation
+
   - name: Bash
     web_url: https://github.com/topics/bash
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png
@@ -73,6 +76,10 @@ topics:
   - name: Firefox
     weburl: https://github.com/topics/firefox
     image_url: https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png
+
+  - name: Home Assistant
+    weburl: https://github.com/topics/homeassistant
+    image_url: https://raw.githubusercontent.com/github/explore/1c6590bcecae757172108275aedd0b75680d8f1a/topics/home-assistant/home-assistant.png
 
   - name: HTTP
     web_url: https://github.com/topics/http
@@ -96,6 +103,9 @@ topics:
   - name: Neovim
     web_url: https://github.com/topics/neovim
     image_url: https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png
+    
+  - name: Orchestration
+    web_url: https://github.com/topics/orchestration
 
   - name: Raspberry Pi
     web_url: https://github.com/topics/raspberry-pi
