@@ -81,9 +81,6 @@ topics:
     weburl: https://github.com/topics/homeassistant
     image_url: https://raw.githubusercontent.com/github/explore/1c6590bcecae757172108275aedd0b75680d8f1a/topics/home-assistant/home-assistant.png
 
-  - name: HTTP
-    web_url: https://github.com/topics/http
-
   - name: Linux
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
@@ -92,10 +89,6 @@ topics:
     web_url: https://github.com/topics/markdown
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/markdown/markdown.png
 
-  - name: Mastodon
-    web_url: https://github.com/topics/mastodon
-    image_url: https://raw.githubusercontent.com/github/explore/d004ed8f8b3a409f46c89be097d6ab0ee207cea9/topics/mastodon/mastodon.png
-
   - name: Matrix
     web_url: https://github.com/topics/matrix
     image_url: https://avatars.githubusercontent.com/u/13446337?s=200&v=4
@@ -103,9 +96,21 @@ topics:
   - name: Neovim
     web_url: https://github.com/topics/neovim
     image_url: https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png
-    
+
+  - name: NixOS
+    web_url: https://github.com/topics/nix
+    image_url: https://raw.githubusercontent.com/github/explore/321fcda5aea097657efeed8566610d1c0937a3bb/topics/nix/nix.png
+
+  - name: Obsidian
+    web_url: https://github.com/topics/obsidian-md
+    image_url: https://raw.githubusercontent.com/github/explore/69803791d4c648dc3ebf8f12a1448d5a1fec0036/topics/obsidian-md/obsidian-md.png
+
   - name: Orchestration
     web_url: https://github.com/topics/orchestration
+
+  - name: Pi-hole
+    web_url: https://github.com/topics/pihole
+    image_url: https://raw.githubusercontent.com/github/explore/d90dc858dc489cd2bc3b3295e71e04b4e2e2db00/topics/pihole/pihole.png
 
   - name: Raspberry Pi
     web_url: https://github.com/topics/raspberry-pi
@@ -114,12 +119,8 @@ topics:
   - name: Security
     web_url: https://github.com/topics/security
 
-  - name: Software-defined networking
+  - name: Software Defined Networking
     web_url: https://github.com/topics/sdn
-
-  - name: Telegram
-    web_url: https://github.com/topics/telegram
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png
 
   - name: Terminal
     web_url: https://github.com/topics/terminal
